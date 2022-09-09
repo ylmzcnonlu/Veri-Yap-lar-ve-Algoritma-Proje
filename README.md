@@ -1,4 +1,4 @@
-# Veri-Yapilari-ve-Algoritma-Proje
+# Insertion Sort Projesi
 Patika kurs sonu veri yapıları ve algoritma projeleri
 
 
