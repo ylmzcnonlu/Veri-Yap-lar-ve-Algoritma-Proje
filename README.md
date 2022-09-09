@@ -1,4 +1,4 @@
-# Veri-Yap-lar-ve-Algoritma-Proje
+# Veri-Yapilari-ve-Algoritma-Proje
 Patika kurs sonu veri yapıları ve algoritma projeleri
 
 
